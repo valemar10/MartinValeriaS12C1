@@ -1,0 +1,27 @@
+Semana 12 Clase 1 Terminar en casa + preparacion S12 C2
+
+
+Ejercicio: Cree un repositorio llamado ApellidoNombreS12C1make. En este repositorio debe estar el Makefile así como los archivos ".tex", ".py" y "cpp". La entrega debe ser un directorio comprimido ApellidoNombreS12C1MAKE_CASA.zip (que se descomprima en un directorio llamado ApellidoNombreS12C1MAKE_CASA) que usted debe subir a sicua (además de subir el enlace de GitHub con el repositorio correspondiente).
+
+Termine el Makefile (llamado ApellidoNombreS12C1.mk) que empezó en clase. VERIFIQUE que su Makefile funciona cambiando (puede usar el comando touch) los archivos.
+
+
+Importante: Preparacion de clase S12 C2
+
+1) En alguno de los tutoriales, empiecen a mirar como funcionan los pointers y como se leen y se escriben archivos en cpp.
+2) Miren los videos de https://v4.software-carpentry.org/make/index.html
+
+enlaces de algunos tutoriales:
+https://beginnersbook.com/2017/08/c-plus-plus-tutorial-for-beginners/
+
+http://www.cplusplus.com/doc/tutorial/
+
+https://www.programiz.com/cpp-programming
+
+https://www.cprogramming.com/tutorial/c++-tutorial.html
+
+interactivo (pero incompleto):
+
+https://www.learn-cpp.org/
+
+
